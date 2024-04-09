@@ -23,17 +23,17 @@ const MOVIES = [
     {
         id: 1,
         title: "The Goat Life",
-        image: "../src/assets/images/goatlife.jpeg"
+        image: "../src/assets/images/goatlife.jpg"
     },
     {
         id: 2,
         title: "Premalu",
-        image: "../src/assets/images/premalu.jpeg"
+        image: "../src/assets/images/premalu.jpg"
     },
     {
         id: 3,
         title: "Lover",
-        image: "../src/assets/images/lover.jpeg"
+        image: "../src/assets/images/lover.jpg"
     },
 
 ]
